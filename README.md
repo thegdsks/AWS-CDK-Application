@@ -71,6 +71,7 @@ To avoid incurring future charges, remember to delete the resources once you are
 ```bash
 npx cdk destroy --all
 
+```
 
 ## License
 
